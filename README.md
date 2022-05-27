@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=groupdcbots&repo=savecontentbot&theme=tokyonight)](https://github.com/groupdcbots/savecontentbot&bg_color=#24292F)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ymwd&repo=savecontentbot&theme=tokyonight)](https://github.com/ymwd/savecontentbot&bg_color=#24292F)
 
 
 # Save Restricted Content Bot
