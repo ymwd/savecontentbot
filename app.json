@@ -8,9 +8,9 @@
         "save restricted",
         "bot"
     ],
-    "repository": "https://github.com/groupdcbots/savecontentbot",
+    "repository": "https://github.com/ymwd/savecontentbot",
     "website": "",
-    "success_url": "https://t.me/groupdcbots",
+    "success_url": "https://telegram.me/Restricted_saver_bot",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
