@@ -7,7 +7,7 @@ from telethon import events, Button, TelegramClient
 from pyrogram import idle
 from main.plugins.main import Bot, userbot
 
-st = "Oii Buddy 🤡 __Send me Link of any message to clone it here, For private channel message, Send invite link first.__\n\nSUPPORT: @groupdcbots\nDEV: @selfiebd"
+st = "Oii Buddy 🤡 __Send me Link of any message to clone it here, For private channel message, Send invite link first."
 
 @bot.on(events.NewMessage(incoming=True, pattern="/start"))
 async def start(event):
